@@ -1,0 +1,60 @@
+body{
+	background-image: url(http://detoutartisanatetautres.d.e.pic.centerblog.net/o/38d29f34.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	
+form{
+margin-top: 5vh;
+margin-bottom: 5vh;
+}
+
+
+header{
+	height:10vh;
+	background-color:#084561;
+	color: white;
+	flex: 1;
+	flex-wrap:wrap;
+}
+
+
+section{
+   width:25vw;
+    margin:0 auto;
+    border: 2px blue;
+    box-shadow: 5px 10px 50px gray;
+   font-family: 'Gothic A1', sans-serif;
+    color: salmon;
+    background-color: #fff0bc;
+    
+ }
+
+    ul{
+   list-style-type: none;
+   margin:0px;
+   padding:0;
+}
+
+li{
+	float:left;
+	margin-left:40px;
+  margin-top:20px 
+} 
+
+ul li a {
+	
+	float: left;
+	width:150px;
+	background-color:#e8b912;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding:5px;
+	border: 2px solid;
+	overflow:hidden;
+	display: block;
+} 
+ul li a:hover {
+	background-color:blue;
+    
